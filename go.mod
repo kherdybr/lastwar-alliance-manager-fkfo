@@ -1,12 +1,12 @@
 module lastwar-alliance
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/gorilla/mux v1.8.1
 	github.com/gorilla/sessions v1.4.0
 	github.com/otiai10/gosseract/v2 v2.4.1
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	modernc.org/sqlite v1.56.0
 )
 
